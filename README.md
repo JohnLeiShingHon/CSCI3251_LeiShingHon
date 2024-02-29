@@ -1,2 +1,2 @@
 # CSCI3251_LeiShingHon
-Lab for CSCI3251
+This is the project of Lei Shing Hon
